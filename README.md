@@ -41,12 +41,6 @@ Arashi-Ao (meaning "Storm Blue" in Japanese) is an educational tool designed to 
 3. Depending on the software implementation, you might need to adjust settings through a serial monitor or physical buttons to control the disruption range.
 4. Observe the effects of the jamming on nearby Bluetooth devices within the range.
 
-**Important Notes:**
-
-* **Safety First:**  Ensure the automatic shutoff timer is functional in the code to prevent unintended interference with critical Bluetooth operations.
-* **Legal Disclaimer:** Using a Bluetooth jammer without a license is illegal in most countries. Arashi-Ao is intended for educational purposes only and should be operated in a controlled environment with proper authorization.
-* **Advanced Use:** This READE.ME provides a basic overview. The actual software might offer additional functionalities; refer to the code documentation for detailed explanations.
-
 **Additional Resources:**
 
 * ESP32 Documentation: https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html
