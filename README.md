@@ -24,7 +24,7 @@ Arashi-Ao (meaning "Storm Blue" in Japanese) is an educational tool designed to 
 2. Connect the nRF24L01 modules to the ESP32 using jumper wires. Refer to the chosen library's documentation for specific pin connections (typically SPI communication pins).
 3. (Optional) Solder the 10uF capacitors across the VCC and GND pins of each nRF24L01 module for improved power stability.
 
-!["Wiring Diagram"](Tadashi-Arashi-Aoi-Wiring WaterMarked.png)
+!["Wiring Diagram"](Tadashi-Arashi-Aoi-Wiring-WaterMarked.png)
 
 **Software Setup:**
 
