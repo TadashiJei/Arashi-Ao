@@ -47,3 +47,6 @@ Arashi-Ao (meaning "Storm Blue" in Japanese) is an educational tool designed to 
 * nRF24L01+ Datasheet: https://infocenter.nordicsemi.com/index.jsp
 
 **Enjoy exploring the world of Bluetooth with Arashi-Ao! Remember, responsible use and legal compliance are paramount.**
+
+
+**PRIVATE USE ONLY! NOT AVAILABLE ON THE PUBLIC!**
